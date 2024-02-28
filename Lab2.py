@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+#yussupov sanzhar
 # # Lab 2
 
 # Booleans
